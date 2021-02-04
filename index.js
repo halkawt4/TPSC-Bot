@@ -87,4 +87,4 @@ bot.on("message", message => {
 }
 })
 
-bot.login(config.token)
+bot.login("NzA2OTgyMzEyMTYzNjcyMDk3.XrCKlg.Dqlk3pxNihXZXB1IRLmLyxq93jI")
