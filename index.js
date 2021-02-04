@@ -87,4 +87,4 @@ bot.on("message", message => {
 }
 })
 
-bot.login("NzA2OTgyMzEyMTYzNjcyMDk3.XrCKlg.Dqlk3pxNihXZXB1IRLmLyxq93jI")
+bot.login("NzA.XrCKlg.Dqlk3pxNihXZXB1IRLmLyxq93jI")
